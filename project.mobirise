@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "About",
     "versionFirst": "3.8.3",
     "uniqCompNum": 5,
     "versionPublish": "3.12.1",
@@ -915,7 +915,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
