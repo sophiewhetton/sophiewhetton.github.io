@@ -449,8 +449,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nude5number2-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/nude5number2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude5number2-1-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude5number2-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -459,8 +459,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nude2nummer2-800x1200.jpg",
-                "image": "@PROJECT_PATH@/assets/images/nude2nummer2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude2nummer2-1-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude2nummer2-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -469,18 +469,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nude3nummer2-800x1270.jpg",
-                "image": "@PROJECT_PATH@/assets/images/nude3nummer2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude3nummer2-1-800x1270.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude3nummer2-1.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nude4nummer2-1-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/nude4nummer2-1.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude4nummer2-2-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude4nummer2-2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -492,7 +492,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/nude1nummer2-800x545.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nude1nummer2.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "6",
