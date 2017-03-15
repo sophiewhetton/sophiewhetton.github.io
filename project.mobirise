@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "About.html",
+    "currentPage": "lifedrawings.html",
     "versionFirst": "3.8.3",
     "uniqCompNum": 5,
     "versionPublish": "3.12.1",
@@ -449,8 +449,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o5mibwst7t1uqg1u2o2-1280-2000x3519-0-2000x3519-62.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o5mibwst7t1uqg1u2o2-1280-2000x3519-0.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude5number2-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude5number2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -459,8 +459,38 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-o5miizwaug1uqg1u2o1-1280-2000x4388-4-2000x4388-1.jpg",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-o5miizwaug1uqg1u2o1-1280-2000x4388-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude2nummer2-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude2nummer2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude3nummer2-800x1270.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude3nummer2.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude4nummer2-1-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude4nummer2-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nude1nummer2-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nude1nummer2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -896,6 +926,14 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "header2-4",
           "_params": {
             "imageSize": 50,
@@ -941,15 +979,7 @@
           },
           "title": "ABOUT ME",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     }
